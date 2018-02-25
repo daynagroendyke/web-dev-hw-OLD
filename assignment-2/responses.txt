@@ -1,0 +1,5 @@
+# Responses for assignment 2
+* Data travels over the internet in packets.
+* IP address is the "internet protocol" DNS is the "Domain name system" IP is a protocol that the internet has agreed upon, and each device on the internet has a unique address. The domain name system is a system created that gives each website a domain name. This is how we find information on the internet.
+* A cookie is a small piece of data sent from a website and store on the user's computer by the user's web browser while the user is browsing. This stores information about the user's activity on the site.
+* Three basic parts of a URL? Protocol **HTTP** Server id **www.website.com** Resrouce id **image.png**
